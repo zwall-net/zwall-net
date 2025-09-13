@@ -41,7 +41,7 @@ It provides low-latency, kernel-level packet filtering and advanced traffic cont
 ## 🚀 Installation
 
 > ⚠️ ZWall does **not use Docker**. All setup is native/manual.  
-Complete installation guides are available in [`docs.html`](docs.html) (see project website).
+Complete installation guides are available in 👉 https://zwall.net/docs (see project website).
 
 ---
 
